@@ -22,7 +22,7 @@ project "ImGui"
 	}
 
 	filter "system:macosx"
-		systemversion "latest"
+		systemversion "12.1"
 
 	filter "configurations:Debug"
 		runtime "Debug"
